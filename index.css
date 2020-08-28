@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.brandName{
+    font-weight: bold;
+    color: rgb(82, 74, 87);
+    text-shadow: 1px 1px 5px rgb(174, 253, 15);
+    font-family: unset;
+}
+
+    .navbar-toggler{
+    font-size: 40px;
+    }
+
+.intro{
+    background-color: rgb(107, 206, 107);
+    font-size: 14px;
+}
+
+.icons1{
+    float: right;
+}
+
+.sticky-top{
+background-color: white;
+margin-bottom: 10px;
+}
+
+.nav-link{
+    color: grey;
+}
+
+.nav-link:hover{
+    color: rgb(107, 206, 107);
+}
+
+#nav2 li a:hover{
+    text-decoration: underline;
+    color: gray;
+}
+
+.carousel-inner .carousel-item img{
+    height: 360px;
+}
+
+#blog{
+    background-color: rgb(228, 225, 225);
+}
+
+.btn-success{
+    background-color: rgb(108, 138, 49);
+}
+
+.btn-outline-success{
+    color: rgb(108, 138, 49);
+    border-color: rgb(108, 138, 49)
+}
+
+.btn-outline-success:hover{
+    background-color: rgb(108, 138, 49);
+}
+
+hr{
+background-color: rgb(174, 253, 15);
+}
+
+.news{
+    color: rgb(82, 74, 87);
+    text-shadow: 1px 1px 5px rgb(174, 253, 15);
+    font-family: unset;
+}
+
+.blogPic{
+    width: 100%;
+    height: 500px;
+    margin-top: 2rem;
+}
+
+.meta li{
+    display: block;
+}
+
+.meta li a{
+    float: left;
+    color: #666;
+    margin-right: 10px;
+}
+
+.blog p{
+    /* clear: both; */
+    /* column-count: 2; */
+    text-align: justify;
+}
+
+/* .img-hover-zoom:hover{
+    transform: scale(1.1);
+} */
+
+.tiktokPic{
+    height: 500px;
+    margin-top: 1rem;
+}
+
+.lingerie{
+    clear: both;
+}
+
+#prevPageControl{
+    margin-left: 33%;
+    margin-right: 15px;
+}
+
+#prevPageControl.disabled{
+    color: dimgray;
+}
+
+.comment h6{
+    color: dimgray;
+    font-size: 15px;
+}
+
+.imgOldPosts{
+    float: left;
+    height: 80px;
+    margin: 0px 10px 0px 10px;
+}
+
+.olderPostsHeader{
+    padding: 0px;
+    margin: 20px 0px 0px 10px;
+    color: rgb(82, 74, 87);
+    text-shadow: 1px 1px 5px rgb(174, 253, 15);
+    font-family: unset;
+}
+
+/* .olderPosts{
+    clear: both;
+} */
+
+.sidebarAds{
+    margin-left: 10px;
+}
+
+.categoriesHeader{
+    margin: 40px 0px 15px 5px;
+    color: rgb(82, 74, 87);
+    text-shadow: 1px 1px 5px rgb(174, 253, 15);
+    font-family: unset;
+}
+
+.categories ul li a{
+    margin-left: 10px;
+    color: rgb(108, 138, 49);
+}
+
+.stickyAd{
+    position: sticky;
+    top: 80px;
+}
+
+
+
+.icons2{
+    font-size: 40px;
+}
+
